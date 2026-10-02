@@ -32,3 +32,8 @@
 /*.tar.xz
 /toolchains
 arisc/ar100s/tools/*.tar.*
+
+# Private deployment credentials
+.env
+.env.local
+wifi_credentials.local.h
